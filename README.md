@@ -1,4 +1,4 @@
-![nerd-studying-nerd](https://user-images.githubusercontent.com/22495927/161414752-cef97277-36d7-45c8-8ad6-1b055a0d1310.gif)
+
 - 👋 Hi, I’m @ritumahali96
 - 👀 I’m interested in Machine Learning and Data Analysis.
 - 💞️ I’m looking to learn and practice.
