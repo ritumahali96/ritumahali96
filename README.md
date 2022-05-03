@@ -2,7 +2,8 @@
 - 👀 I’m interested in Machine Learning and Data Analysis.
 - 💞️ I’m looking to learn and practice.
 - 💞️ I like to code in python.
-- 💞️ I also spend my time on Sql queries or Database Analysis.                                
+- 💞️ I also spend my time on Sql queries or Database Analysis.   
+- ### Link to my Data Visualisations in Tableau Public - https://public.tableau.com/shared/T5FHCCBS3?:display_count=n&:origin=viz_share_link                             
 <!---
 ritumahali96/ritumahali96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
